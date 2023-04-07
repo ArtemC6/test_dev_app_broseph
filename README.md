@@ -1,16 +1,17 @@
-# test_dev_app_broseph
+# Test Api App
 
-A new Flutter project.
+### We get the latest news through the Times Newswire API
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+State management
+ + bloc
+ 
+<table>
+  <tr>
+    <td valign="top"><img src="https://user-images.githubusercontent.com/105007162/230628771-c4927d1a-40e0-4b05-bf24-5a497ebfaa84.gif"></td>
+    <td valign="top"><img src="https://user-images.githubusercontent.com/105007162/230630826-4ea95dab-237f-4b99-b351-d92abbe02049.gif"></td>
+    <td valign="top"><img src="https://user-images.githubusercontent.com/105007162/230631558-292c7d35-7e91-4105-b1ea-6af84d701470.gif"></td>
+  </tr>
+ </table>
+ 
+ 
+![Simulator Screen Recording - iPhone 14 Pro - 2023-04-07 at 20 57 45](https://user-images.githubusercontent.com/105007162/230632092-a166cbf6-25ed-49ff-82ea-fbc872503b2b.gif)
