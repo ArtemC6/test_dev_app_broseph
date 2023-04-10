@@ -7,7 +7,7 @@ class ArticleProvider {
       String select, int pageSize, String search) async {
     final key = '839e86a5df4448629660f243b1030c7b';
 
-    if (search.isEmpty) search = '2023-03-07';
+    if (search.isEmpty) search = '2023-03-10';
 
     final response = await Dio().get(
         'https://newsapi.org/v2/everything?q=$select&from=$search&pageSize=$pageSize&apiKey=$key');
